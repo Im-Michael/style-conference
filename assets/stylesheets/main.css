@@ -1,0 +1,15 @@
+p {
+  color: rgb(143, 60, 60);
+  font-size: 14px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+#foo {
+  color: black;
+}
+
+h1 {
+  color: green;
+}
